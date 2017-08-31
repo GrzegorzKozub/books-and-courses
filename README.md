@@ -22,6 +22,7 @@ Software development books I've read and courses I've completed
 
 ### DevOps
 
+* [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
 * [HBR's 10 Must Reads on Emotional Intelligence](https://www.amazon.com/HBRs-Must-Reads-Emotional-Intelligence/dp/1511367199) by Harvard Business Review, Daniel Goleman, Richard Boyatzis and Annie McKee
 * [HBR's 10 Must Reads on Leadership](https://www.amazon.com/HBRs-10-Must-Reads-Leadership/dp/1511367067) by Harvard Business Review, Bill George, Daniel Goleman and Peter F. Drucker
 * [Technical Leadership. Od eksperta do lidera](https://helion.pl/ksiazki/technical-leadership-od-eksperta-do-lidera-mariusz-sieraczkiewicz,techle.htm) by Mariusz Sieraczkiewicz
