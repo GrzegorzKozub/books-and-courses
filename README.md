@@ -127,6 +127,7 @@ Software development books I've read and courses I've completed
 
 #### Go
 
+* [Building Distributed Applications with Go](https://www.pluralsight.com/courses/go-build-distributed-applications) by Michael Van Sickle
 * [Concurrent Programming with Go](https://www.pluralsight.com/courses/go-concurrent-programming) by Michael Van Sickle
 * [Creating Web Applications with Go](https://www.pluralsight.com/courses/creating-web-applications-go) by Michael Van Sickle
 * [Go: Getting Started](https://www.pluralsight.com/courses/go-getting-started) by Michael Van Sickle
