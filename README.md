@@ -83,7 +83,7 @@ Software development books I've read and courses I've completed
 * [Play by Play: Angular 2 Quick Start with John Papa and Ward Bell](https://www.pluralsight.com/courses/play-by-play-angular-2-quick-start-john-papa-ward-bell) by John Papa and Ward Bell
 * [Play by Play: Angular 2/RxJS/HTTP and RESTful Services with John Papa and Dan Wahlin](https://www.pluralsight.com/courses/play-by-play-angular-2-rxjs-http-restful-services-john-papa-dan-wahlin) by Dan Wahlin and John Papa
 
-#### React
+#### React.js
 
 * [Advanced React.js](https://www.pluralsight.com/courses/reactjs-advanced) by Samer Buna
 * [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) by Cory House
