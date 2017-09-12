@@ -69,6 +69,7 @@ Software development books I've read and courses I've completed
 
 * [A Practical Start with TypeScript](https://www.pluralsight.com/courses/typescript-practical-start) by Roland Guijt
 * [Advanced TypeScript](https://www.pluralsight.com/courses/typescript-advanced) by Brice Wilson
+* [Getting Started with TypeScript](https://www.pluralsight.com/courses/typescript-getting-started) by Brice Wilson
 * [Using ES6 with TypeScript](https://www.pluralsight.com/courses/es6-with-typescript) by Steve Ognibene
 
 ### Front-end
