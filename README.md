@@ -58,7 +58,7 @@ Software development books I've read and courses I've completed
 
 ### Languages
 
-#### C#
+#### C\#
 
 * [C# Interfaces](https://www.pluralsight.com/courses/csharp-interfaces) by Jeremy Clark
 
