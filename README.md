@@ -22,6 +22,7 @@ Software development books I've read and courses I've completed
 
 ### DevOps
 
+* [HBR's 10 Must Reads on Leadership](https://www.amazon.com/HBRs-10-Must-Reads-Leadership/dp/1511367067) by Harvard Business Review, Bill George, Daniel Goleman and Peter F. Drucker
 * [Technical Leadership. Od eksperta do lidera](https://helion.pl/ksiazki/technical-leadership-od-eksperta-do-lidera-mariusz-sieraczkiewicz,techle.htm) by Mariusz Sieraczkiewicz
 * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509) by Gene Kim, Kevin Behr and George Spafford
