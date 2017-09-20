@@ -166,5 +166,6 @@ Software development books I've read and courses I've completed
 
 ### Process
 
+* [Lean Software Development Fundamentals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) by Stephen Haunts
 * [Scrum Fundamentals](https://www.pluralsight.com/courses/scrum-fundamentals) by David Starr
 
