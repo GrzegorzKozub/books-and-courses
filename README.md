@@ -91,6 +91,7 @@ Software development books I've read and courses I've completed
 
 * [Advanced React.js](https://www.pluralsight.com/courses/reactjs-advanced) by Samer Buna
 * [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) by Cory House
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov
 * [Introduction to React](https://mva.microsoft.com/en-us/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) by Eric W. Greene
 * [React.js: Getting Started](https://www.pluralsight.com/courses/react-js-getting-started) by Samer Buna
 
