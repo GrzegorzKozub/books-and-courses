@@ -41,6 +41,7 @@ Software development books I've read and courses I've completed
 
 ### Architecture
 
+* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
 * [Microservices Architecture](https://www.pluralsight.com/courses/microservices-architecture) by Rag Dhiman
 * [Introduction to Microservices](https://mva.microsoft.com/en-US/training-courses/introduction-to-microservices-16510?l=jBKdCvabC_8505918563) by Boris Scholl, Jeffrey Richter
 * [Scaling Applications with Microservices, MassTransit, and RabbitMQ](https://www.pluralsight.com/courses/masstransit-rabbitmq-scaling-microservices) by Roland Guijt
