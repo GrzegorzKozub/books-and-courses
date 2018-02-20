@@ -158,6 +158,10 @@ Software development books I've read and courses I've completed
 * [Container Management using Docker (Pluralsight Learning Path)](https://www.pluralsight.com/paths/docker) by Nigel Poulton
 * [Docker Images and Containers for ASP.NET Core](https://www.pluralsight.com/courses/docker-images-containers-aspdotnet-core) by Wes Higbee
 
+#### AWS
+
+* [AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started) by Ryan Lewis
+
 #### Azure
 
 * [.NET Developer on Microsoft Azure (Pluralsight Learning Path)](https://www.pluralsight.com/paths/net-developer-on-microsoft-azure) by Scott Allen
