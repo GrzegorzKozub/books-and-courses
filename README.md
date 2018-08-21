@@ -43,6 +43,7 @@ Software development books I've read and courses I've completed
 
 * [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
 * [Microservices Architecture](https://www.pluralsight.com/courses/microservices-architecture) by Rag Dhiman
+* [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543) by Chris Richardson
 * [Introduction to Microservices](https://mva.microsoft.com/en-US/training-courses/introduction-to-microservices-16510?l=jBKdCvabC_8505918563) by Boris Scholl, Jeffrey Richter
 * [Scaling Applications with Microservices, MassTransit, and RabbitMQ](https://www.pluralsight.com/courses/masstransit-rabbitmq-scaling-microservices) by Roland Guijt
 
@@ -168,6 +169,7 @@ Software development books I've read and courses I've completed
 * [.NET Developer on Microsoft Azure (Pluralsight Learning Path)](https://www.pluralsight.com/paths/net-developer-on-microsoft-azure) by Scott Allen
 * [Building Distributed Applications and Microservices-Based Apps on Azure Container Service](https://mva.microsoft.com/en-us/training-courses/building-distributed-applications-and-microservicesbased-apps-on-azure-container-service-16521?l=9jV5vWHdC_8906218965) by Boris Scholl, Trent Swanson
 * [Node on Windows and Azure](https://www.pluralsight.com/courses/node-on-azure) by Paul O'Fallon
+* [Understanding the Programming Models of Azure Service Fabric](https://www.pluralsight.com/courses/azure-service-fabric-programming-models) by Ivan Gavryliuk
 
 #### Kubernetes
 
