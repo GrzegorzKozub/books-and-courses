@@ -140,6 +140,10 @@ Software development books I've read and courses I've completed
 * [Creating Web Applications with Go](https://www.pluralsight.com/courses/creating-web-applications-go) by Michael Van Sickle
 * [Go: Getting Started](https://www.pluralsight.com/courses/go-getting-started) by Michael Van Sickle
 
+#### Storage
+
+* [Getting Started with Elasticsearch for .NET Developers](https://www.pluralsight.com/courses/elasticsearch-for-dotnet-developers) by JP Toto
+
 ### Testing
 
 * [Advanced Unit Testing](https://www.pluralsight.com/courses/advanced-unit-testing) by Mark Seemann
