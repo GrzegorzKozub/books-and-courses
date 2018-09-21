@@ -172,6 +172,7 @@ Software development books I've read and courses I've completed
 
 * [.NET Developer on Microsoft Azure (Pluralsight Learning Path)](https://www.pluralsight.com/paths/net-developer-on-microsoft-azure) by Scott Allen
 * [Building Distributed Applications and Microservices-Based Apps on Azure Container Service](https://mva.microsoft.com/en-us/training-courses/building-distributed-applications-and-microservicesbased-apps-on-azure-container-service-16521?l=9jV5vWHdC_8906218965) by Boris Scholl, Trent Swanson
+* [Microsoft Azure Service Bus Brokered Messaging In-depth](https://www.pluralsight.com/courses/microsoft-azure-service-brokered-messaging) by Alan Smith
 * [Node on Windows and Azure](https://www.pluralsight.com/courses/node-on-azure) by Paul O'Fallon
 * [Understanding the Programming Models of Azure Service Fabric](https://www.pluralsight.com/courses/azure-service-fabric-programming-models) by Ivan Gavryliuk
 
