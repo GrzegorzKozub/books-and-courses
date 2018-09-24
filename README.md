@@ -120,6 +120,7 @@ Software development books I've read and courses I've completed
 #### .NET Core
 
 * [ASP.NET Core Razor Deep Dive](https://www.pluralsight.com/courses/asp-dot-net-core-razor-deep-dive) by Alex Wolf
+* [Building an Async API with ASP.NET Core](https://www.pluralsight.com/courses/building-async-api-aspdotnet-core) by Kevin Dockx
 * [Building a Web App with ASP.NET Core, MVC 6, EF Core, and Angular](https://www.pluralsight.com/courses/aspdotnetcore-efcore-bootstrap-angular-web-app) by Shawn Wildermuth
 * [Implementing Custom Middleware Components in ASP.NET Core](https://www.pluralsight.com/courses/implementing-custom-middleware-components-aspdotnet-core) by Gavin Lanata
 * [Intermediate ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964?l=Kvl35KmJD_4306218965) by Scott Hanselman, Rowan Miller, Maria Naggaga, Jeff Fritz
