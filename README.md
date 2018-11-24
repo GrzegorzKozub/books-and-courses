@@ -25,6 +25,7 @@ Software development books I've read and courses I've completed
 * [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
 * [HBR's 10 Must Reads on Emotional Intelligence](https://www.amazon.com/HBRs-Must-Reads-Emotional-Intelligence/dp/1511367199) by Harvard Business Review, Daniel Goleman, Richard Boyatzis and Annie McKee
 * [HBR's 10 Must Reads on Leadership](https://www.amazon.com/HBRs-10-Must-Reads-Leadership/dp/1511367067) by Harvard Business Review, Bill George, Daniel Goleman and Peter F. Drucker
+* [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) by Marty Cagan
 * [Technical Leadership. Od eksperta do lidera](https://helion.pl/ksiazki/technical-leadership-od-eksperta-do-lidera-mariusz-sieraczkiewicz,techle.htm) by Mariusz Sieraczkiewicz
 * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509) by Gene Kim, Kevin Behr and George Spafford
