@@ -128,6 +128,7 @@ Software development books I've read and courses I've completed
 * [Introduction to ASP.NET Core with Visual Studio 2017](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841?l=JWZaodE6C_5706218965) by Scott Hanselman, Maria Naggaga
 * [Understanding ASP.NET Core Security](https://www.pluralsight.com/courses/asp-dot-net-core-security-understanding) by Roland Guijt
 * [Understanding ASP.NET Core](https://www.pluralsight.com/courses/asp-dot-net-5-understanding) by Roland Guijt
+* [Using HttpClient to Consume APIs in .NET Core](https://www.pluralsight.com/courses/httpclient-consume-apis-dotnet-core) by Kevin Dockx
 
 #### Node
 
