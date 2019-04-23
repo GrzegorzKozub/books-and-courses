@@ -67,6 +67,10 @@ Software development books I've read and courses I've completed
 
 * [C# Interfaces](https://www.pluralsight.com/courses/csharp-interfaces) by Jeremy Clark
 
+#### Elixir
+
+* [Getting Started with Elixir](https://www.pluralsight.com/courses/elixir-getting-started) by Nate Taylor
+
 #### JavaScript
 
 * [Getting Started with Reactive Programming Using RxJS](https://www.pluralsight.com/courses/reactive-programming-rxjs-getting-started) by Scott Allen
