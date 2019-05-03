@@ -70,6 +70,7 @@ Software development books I've read and courses I've completed
 #### Elixir
 
 * [Getting Started with Elixir](https://www.pluralsight.com/courses/elixir-getting-started) by Nate Taylor
+* [Getting Started with Phoenix](https://www.pluralsight.com/courses/phoenix-getting-started) by Nate Taylor
 
 #### JavaScript
 
