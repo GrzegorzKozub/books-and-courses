@@ -1,5 +1,3 @@
-<!--* []() by -->
-
 # Books and Courses
 
 Software development books I've read and courses I've completed
@@ -192,4 +190,9 @@ Software development books I've read and courses I've completed
 
 * [Lean Software Development Fundamentals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) by Stephen Haunts
 * [Scrum Fundamentals](https://www.pluralsight.com/courses/scrum-fundamentals) by David Starr
+
+### Computer science
+
+* [Algorithms and Data Structures - Part 1](https://www.pluralsight.com/courses/ads-part1) by Robert Horvick
+* [Algorithms and Data Structures - Part 2](https://www.pluralsight.com/courses/ads2) by Robert Horvick
 
