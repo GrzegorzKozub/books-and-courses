@@ -30,6 +30,12 @@ Software development books I've read and courses I've completed
 
 ### Languages
 
+#### Elixir
+
+* [Programming Elixir](https://pragprog.com/book/elixir16/programming-elixir-1-6) by Dave Thomas
+
+#### JavaScript
+
 * [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
 
 ### Editors
