@@ -179,6 +179,9 @@ Software development books I've read and courses I've completed
 
 #### AWS
 
+* [AWS Developer: Deployment and Security](https://www.pluralsight.com/courses/aws-developer-deployment-security) by Ryan Lewis
+* [AWS Developer: Designing and Developing](https://www.pluralsight.com/courses/aws-developer-designing-developing) by Ryan Lewis
+* [AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started) by Ryan Lewis
 * [AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started) by Ryan Lewis
 * [AWS DynamoDB Fundamentals](https://www.pluralsight.com/courses/aws-dynamodb-fundamentals) by Stefan Roman
 * [Administering Amazon Aurora on Amazon RDS](https://www.pluralsight.com/courses/administering-amazon-aurora-amazon-rds) by Aaron Medacco
@@ -187,7 +190,7 @@ Software development books I've read and courses I've completed
 * [Implementing AWS EC2 Auto Scaling](https://www.pluralsight.com/courses/aws-ec2-auto-scaling-implementing) by Mike Pfeiffer
 * [Implementing AWS Load Balancing](https://www.pluralsight.com/courses/aws-load-balancing-implementing) by Mike Pfeiffer
 * [Managing AWS EC2 Instances](https://www.pluralsight.com/courses/aws-managing-ec2-instances) by Armen Avanesi
-* [Managing Applications in AWS](https://www.pluralsight.com/courses/aws-managing-applications) by Jasenko Krejic 
+* [Managing Applications in AWS](https://www.pluralsight.com/courses/aws-managing-applications) by Jasenko Krejic
 
 #### Azure
 
