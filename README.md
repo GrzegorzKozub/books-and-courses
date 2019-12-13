@@ -185,6 +185,7 @@ Software development books I've read and courses I've completed
 * [AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started) by Ryan Lewis
 * [AWS DynamoDB Fundamentals](https://www.pluralsight.com/courses/aws-dynamodb-fundamentals) by Stefan Roman
 * [Administering Amazon Aurora on Amazon RDS](https://www.pluralsight.com/courses/administering-amazon-aurora-amazon-rds) by Aaron Medacco
+* [Architecting for Reliability on AWS] (https://www.pluralsight.com/courses/aws-architecting-reliability) by Mike Pfeiffer
 * [Auto Scaling AWS Resources](https://www.pluralsight.com/courses/aws-auto-scaling-resources) by Mike Pfeiffer
 * [Creating, Connecting, and Monitoring Databases with Amazon RDS](https://www.pluralsight.com/courses/aws-amazon-rds) by Jeff Hopper
 * [Implementing AWS EC2 Auto Scaling](https://www.pluralsight.com/courses/aws-ec2-auto-scaling-implementing) by Mike Pfeiffer
