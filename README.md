@@ -178,13 +178,13 @@ Software development books I've read and courses I've completed
 * [Docker Images and Containers for ASP.NET Core](https://www.pluralsight.com/courses/docker-images-containers-aspdotnet-core) by Wes Higbee
 
 #### AWS
-
 * [AWS Developer: Deployment and Security](https://www.pluralsight.com/courses/aws-developer-deployment-security) by Ryan Lewis
 * [AWS Developer: Designing and Developing](https://www.pluralsight.com/courses/aws-developer-designing-developing) by Ryan Lewis
 * [AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started) by Ryan Lewis
 * [AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started) by Ryan Lewis
 * [AWS DynamoDB Fundamentals](https://www.pluralsight.com/courses/aws-dynamodb-fundamentals) by Stefan Roman
 * [Administering Amazon Aurora on Amazon RDS](https://www.pluralsight.com/courses/administering-amazon-aurora-amazon-rds) by Aaron Medacco
+* [Architecting for Operational Excellence on AWS](https://www.pluralsight.com/courses/architecting-operational-excellence-aws) by Ben Piper
 * [Architecting for Reliability on AWS] (https://www.pluralsight.com/courses/aws-architecting-reliability) by Mike Pfeiffer
 * [Auto Scaling AWS Resources](https://www.pluralsight.com/courses/aws-auto-scaling-resources) by Mike Pfeiffer
 * [Creating, Connecting, and Monitoring Databases with Amazon RDS](https://www.pluralsight.com/courses/aws-amazon-rds) by Jeff Hopper
